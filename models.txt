@@ -1,0 +1,12 @@
+Login & Signup Authentication Manager
+
+User
+  id
+  lastname
+  firstname
+  age
+  email
+  password
+
+
+
